@@ -1,4 +1,4 @@
-console.log('start frontend200tb three divs');
+console.log('start frontend200tb two divs');
 
 
 /*****************
@@ -42,4 +42,4 @@ div6.style.left = `${leftPos}px`;
 *****************/
 
 
-console.log('end frontend200tb three divs');
+console.log('end frontend200tb two divs');
